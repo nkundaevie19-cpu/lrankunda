@@ -225,13 +225,6 @@ section{
 .about-content .btn{
     margin: 3rem 0;
 }
-.skills-row{
-    display:flex;
-    flex-wrap:wrap;
-    justify-content: center;
-    gap:1rem;
-    margin-top:2rem;
-}
 
 ::-webkit-scrollbar{
     width:20px;
