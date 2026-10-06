@@ -300,6 +300,23 @@ section{
 .contact{
     background-color: var(--bg-color);
 }
+.contact p{
+    text-align: center;
+    margin: 1rem 0;
+}
+.contact p a{
+    display: inline-block;
+    font-size: 2rem;
+    color: #ff5a1f;
+    text-direction: none;
+    padding: 1rem 2rem;
+    border: 2px solid #ff5a1f;
+    border-radius: 3rem;
+}
+ .contact p a:hover{
+     background: #ff5a1f;
+     color:#000;
+ }
 .contact h2{
     margin-bottom: 3rem;
     color:var(--text-color);
